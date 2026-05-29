@@ -42,7 +42,7 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 ---
 
 ## Output
-![Uploading image.png…]()
+"C:\Users\Nepal\OneDrive\Desktop\saugat\my files\decoder.png"
 
 **Encoder**
 
