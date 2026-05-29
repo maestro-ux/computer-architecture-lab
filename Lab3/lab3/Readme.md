@@ -42,11 +42,13 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 ---
 
 ## Output
-![image](encoder.png)
+![Uploading image.png…]()
+
 **Encoder**
 
 
-![image](decoder.png)
+![Uploading image.png…]()
+
 **Decoder**
 
 ## 💬 Discussion
