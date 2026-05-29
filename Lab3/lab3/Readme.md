@@ -42,12 +42,14 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 ---
 
 ## Output
-"C:\Users\Nepal\OneDrive\Desktop\saugat\my files\decoder.png"
+ <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2a4030b2-c13b-47fc-a34d-0aa94c145a39" />
+
 
 **Encoder**
 
 
-![Uploading image.png…]()
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a2c99b43-18b2-4ecf-b0c5-8b28ebff1bf7" />
+
 
 **Decoder**
 
