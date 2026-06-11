@@ -142,7 +142,8 @@ To verify a design before it is physically implemented, it must pass through the
 4. **Visual Verification:** Tools like GTKWave read the generated VCD (Value Change Dump) file to display the timing diagrams of the signals.
 
 ## **Output**
-![alt text](Output.png)
+![Uploading Output.png.lab1.png…]()
+
 
 ## **Discussion**
 In this lab, we successfully set up the open-source VHDL development environment using **VS Code**, **GHDL**, and **GTKWave**.  
