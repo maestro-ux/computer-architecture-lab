@@ -142,7 +142,8 @@ To verify a design before it is physically implemented, it must pass through the
 4. **Visual Verification:** Tools like GTKWave read the generated VCD (Value Change Dump) file to display the timing diagrams of the signals.
 
 ## **Output**
-[Uploading Output.png.lab1.png…]()
+<img width="1252" height="790" alt="Output png lab1" src="https://github.com/user-attachments/assets/1dc0c8ea-320a-430f-990d-e5496a4e426e" />
+
 
 
 ## **Discussion**
