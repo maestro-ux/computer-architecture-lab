@@ -27,8 +27,9 @@ Each gate performs a basic Boolean operation on one or more binary inputs to pro
 ---
 
 ## Output
+<img width="1920" height="1020" alt="gates png lab2" src="https://github.com/user-attachments/assets/74eb7139-4865-45e9-9c4c-bc94f0378f71" />
 
-![image](gates.png)
+
 
 ## 💬 Discussion
 We explored how different logic gates function and implemented them using **VHDL**.  
