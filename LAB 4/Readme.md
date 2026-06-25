@@ -35,13 +35,18 @@ A 1-to-4 DEMUX has 1 data input (D), 2 select lines (S1S0), and 4 outputs (Y0–
 ---
 ## Output
 
-![image](mux.png)
+
 
 **Multiplexer**
+<img width="1920" height="1020" alt="mux png lab4" src="https://github.com/user-attachments/assets/12ebf953-0ea4-4880-8736-2bceefa65118" />
 
-![image](demux.png)
+
 
 **Demultiplexer**
+
+<img width="1920" height="1020" alt="demux lab4" src="https://github.com/user-attachments/assets/9f9760d7-d078-4cfe-a35b-0b6816cf4903" />
+
+
 
 ## Discussion
 - The **multiplexer (MUX)** acts as a data selector, allowing multiple inputs to share a single output line. This is highly useful in digital systems where efficient routing of signals is required.  
