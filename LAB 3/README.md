@@ -1,12 +1,12 @@
-# 🧪 Lab 3: VHDL Code for Combinational Circuits (Encoder and Decoder)
+ Lab 3: VHDL Code for Combinational Circuits (Encoder and Decoder)
 
-## 🎯 Objective
+ Objective
 - To design and simulate a **4-to-2 priority encoder** in VHDL.  
 - To design and simulate a **2-to-4 decoder** in VHDL.  
 
 ---
 
-## 📖 Theory
+ Theory
 
 ### 🔹 Encoder
 An **encoder** converts \(2^n\) input lines into an \(n\)-bit binary code.  
@@ -51,7 +51,7 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 
 
 
-## 💬 Discussion
+ Discussion
 - The **encoder** compresses multiple input signals into a smaller binary representation, which is useful in digital systems where efficiency is required.  
 - The **priority encoder** ensures that when multiple inputs are active, the highest-priority input dominates, preventing ambiguity in outputs.  
 - The **decoder** performs the opposite function, expanding a binary input into multiple outputs, which is essential for selecting one of many lines in memory addressing or multiplexing.  
@@ -60,7 +60,7 @@ A **decoder** converts an \(n\)-bit binary input into one of \(2^n\) output line
 
 ---
 
-## ✅ Conclusion
+ Conclusion
 - Successfully designed and simulated a **4-to-2 priority encoder** and a **2-to-4 decoder** using VHDL.  
 - Verified correct operation through truth tables and simulation waveforms.  
 - Learned how **encoders reduce multiple signals into compact codes** and how **decoders expand binary inputs into multiple outputs**, both of which are fundamental building blocks in digital circuit design.  
