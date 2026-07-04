@@ -41,10 +41,12 @@
 ---
 
 ## Output
-![img](bcd-xs3.png)
+<img width="1920" height="1020" alt="bcd to excess3" src="https://github.com/user-attachments/assets/d936fdc0-3816-4316-828d-848b4d631461" />
+
 **BCD to Excess3**
 
-![img](gray.png)
+<img width="1920" height="1020" alt="Gray" src="https://github.com/user-attachments/assets/646feb42-d319-40d2-8ddc-5679e4e9f407" />
+
 **Binary to Gray**
 
 
