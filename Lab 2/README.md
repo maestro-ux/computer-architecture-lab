@@ -1,4 +1,4 @@
- Lab 2: VHDL Code for Realizing Logic Gates
+ ## Lab 2: VHDL Code for Realizing Logic Gates
 
  Objective
 - Write VHDL code for basic logic gates: **AND, OR, NOT, NAND, NOR, XOR, XNOR**  
@@ -30,14 +30,14 @@ Each gate performs a basic Boolean operation on one or more binary inputs to pro
 
 
 
- Discussion
+ ## Discussion
 We explored how different logic gates function and implemented them using **VHDL**.  
 Each gate was described with its Boolean expression and tested through simulation.  
 The outputs were verified against the expected truth tables using **GTKWave**.
 
 ---
 
- Conclusion
+ ## Conclusion
 - Successfully implemented **seven basic logic gates** in VHDL.  
 - Verified their functionality by simulating and observing waveforms.  
 - Learned how Boolean algebra maps directly into VHDL operators and how simulation tools like GTKWave help confirm correctness.
