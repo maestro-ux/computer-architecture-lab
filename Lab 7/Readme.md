@@ -28,11 +28,12 @@ $Q_{next} = D$
 
 #### JK Flip-Flop
 - Eliminates the forbidden state of SR.  
-- Behavior:  
-  - J=0, | K=0 → Hold  |
-  - J=0, | K=1 → Reset |
-  - J=1, | K=0 → Set  |
-  - J=1, | K=1 → Toggle|  
+- Behavior:
+- |----|----------------|
+  -| J=0, | K=0 → Hold  |
+  - |J=0, | K=1 → Reset |
+  - |J=1, | K=0 → Set  |
+  - |J=1, | K=1 → Toggle|  
 
 #### T Flip-Flop
 - When T=1, output toggles.  
