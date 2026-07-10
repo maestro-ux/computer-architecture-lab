@@ -48,6 +48,7 @@ $Q_{next} = T \oplus Q$
 
 ### Output
 
+<img width="1920" height="1020" alt="Flipflop" src="https://github.com/user-attachments/assets/a5d9f58d-5df0-4a7b-af46-f3525adaf0b4" />
 
 
 ### Discussion
