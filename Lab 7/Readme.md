@@ -37,7 +37,8 @@ This flip-flop eliminates the invalid state found in the SR flip-flop, making it
 
 The JK flip-flop is an improved version of the SR flip-flop. It removes the forbidden state by allowing the output to toggle when both inputs are high.
 
-J	K	Operation
+###
+# J	K	Operation
 0	0	Hold
 0	1	Reset
 1	0	Set
