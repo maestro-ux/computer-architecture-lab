@@ -18,7 +18,7 @@ A counter is a sequential circuit that cycles through a predefined sequence of s
 
 ## Output
 
-!!!!!
+<img width="1920" height="1020" alt="counter" src="https://github.com/user-attachments/assets/1666f368-e435-4250-ab11-9f7ff738d4f7" />
 
 
 counters
